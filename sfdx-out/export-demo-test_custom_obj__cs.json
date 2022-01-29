@@ -1,0 +1,28 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "test_custom_obj__c",
+                "referenceId": "test_custom_obj__cRef1"
+            },
+            "Name": "data1",
+            "custom_text__c": "this is data1!"
+        },
+        {
+            "attributes": {
+                "type": "test_custom_obj__c",
+                "referenceId": "test_custom_obj__cRef2"
+            },
+            "Name": "data3",
+            "custom_text__c": "this is data3"
+        },
+        {
+            "attributes": {
+                "type": "test_custom_obj__c",
+                "referenceId": "test_custom_obj__cRef3"
+            },
+            "Name": "data2",
+            "custom_text__c": "this is data2!"
+        }
+    ]
+}
